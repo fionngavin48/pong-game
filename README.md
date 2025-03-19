@@ -1,6 +1,6 @@
 # pong-game
 
-A custom Pong game project based on a programming lab assignment as part of first year computer science at TCD. 
+A custom Pong game project written in Processing 4, based on a programming lab assignment as part of first year computer science at TCD. 
 
 CS1013 Programming Project
 Exercise 2
