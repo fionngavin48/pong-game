@@ -1,8 +1,9 @@
-# pong-game
+# Processing Pong Game
 
 A custom Pong game project written in Processing 4, based on a programming lab assignment as part of first year computer science at TCD. 
 
-CS1013 Programming Project
+# CS1013 Programming Project
+
 Exercise 2
 1. Get the code presented in class working. i.e. setup and draw methods, human player
 (bat), and ball. The integer variables mouseX and mouseY provide the x and y coordinates of the mouse pointer.
